@@ -1,0 +1,10 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Juliana",
+      "cargo": "CE",
+      "contratos": []
+    }
+  ]
+}
